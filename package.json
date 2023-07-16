@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@testing-library/cypress": "^9.0.0",
+    "cypress": "^12.17.1",
+    "cypress-mochawesome-reporter": "^3.5.1",
+    "prettier": "3.0.0"
+  },
+  "dependencies": {
+    "chance": "^1.1.11"
+  }
+}
